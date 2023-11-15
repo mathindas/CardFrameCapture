@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardFrameCapture</string>
+    <string name="crop_fail">Cropping failed</string>
+    <string name="no_flash">The device does not support flash</string>
+</resources>

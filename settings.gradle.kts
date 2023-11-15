@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CardFrameCapture"
 include(":app")
+include(":CardFrameCapture")
