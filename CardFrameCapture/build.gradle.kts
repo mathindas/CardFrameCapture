@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.rivaldorendy.cardframecapture"
-    compileSdk = 33
+    compileSdk = 31
 
     defaultConfig {
         minSdk = 21
