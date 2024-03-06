@@ -1,4 +1,4 @@
 rootProject.name = "CardFrameCapture"
-include ':CardFrameCapture'
+include ':cardframecapture'
 include ':app'
 
