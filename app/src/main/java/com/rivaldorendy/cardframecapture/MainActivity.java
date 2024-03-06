@@ -1,13 +1,13 @@
 package com.rivaldorendy.cardframecapture;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.ImageView;
-
-import androidx.appcompat.app.AppCompatActivity;
 
 import com.rivaldorendy.cardframecapture.camera.CardFrameCamera;
 
