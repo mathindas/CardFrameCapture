@@ -18,7 +18,7 @@
         android:allowBackup="true"
         android:label="@string/app_name"
         android:supportsRtl="true">
-        <activity android:name=".camera.CameraActivity"
+        <activity android:name="com.rivaldorendy.cardframecapture.camera.CameraActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"/>
     </application>

@@ -20,8 +20,8 @@ import android.widget.Toast;
 
 import androidx.core.app.ActivityCompat;
 
-import com.rivaldorendy.cardframecapture.R;
 import com.rivaldorendy.cardframecapture.cropper.CropImageView;
+import com.rivaldorendy.cardframecapture.R;
 import com.rivaldorendy.cardframecapture.cropper.CropListener;
 import com.rivaldorendy.cardframecapture.utils.CommonUtils;
 import com.rivaldorendy.cardframecapture.utils.FileUtils;

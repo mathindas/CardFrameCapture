@@ -1,4 +1,4 @@
-rootProject.name = "CardFrameCapture"
 include ':cardframecapture'
 include ':app'
+rootProject.name = "CardFrameCaptureexample"
 

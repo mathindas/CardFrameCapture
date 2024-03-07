@@ -1,4 +1,4 @@
-package com.rivaldorendy.cardframecapture;
+package com.rivaldorendy.cardframecaptureexample;
 
 import android.content.Context;
 

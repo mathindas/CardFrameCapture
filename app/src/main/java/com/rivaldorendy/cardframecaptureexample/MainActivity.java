@@ -1,4 +1,4 @@
-package com.rivaldorendy.cardframecapture;
+package com.rivaldorendy.cardframecaptureexample;
 
 import androidx.appcompat.app.AppCompatActivity;
 
