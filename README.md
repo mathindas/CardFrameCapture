@@ -12,18 +12,18 @@ To get started with the CardFrameCapture library, follow these simple steps:
 
 First, add the following dependency to your app-level `build.gradle` file:
 
-\`\`\`gradle
+```gradle
 implementation 'com.github.mathindas:cardframecapture:1.0.6'
-\`\`\`
+```
 
 ### Step 2: Initialize the Camera
 
 Next, initialize the CardFrameCamera by calling the `create` method and specifying a custom asset (optional) and a custom text prompt:
 
-\`\`\`kotlin
+```kotlin
 CardFrameCamera.create(this)
    .openCamera(R.drawable.placeholder, "Take a picture inside the box.")
-\`\`\`
+```
 
 Replace `"R.drawable.placeholder"` with your custom asset and `"Take a picture inside the box."` with your desired text.
 
@@ -33,7 +33,7 @@ This will launch the camera activity with the provided custom asset and text pro
 
 Finally, handle the captured image result in your activity's `onActivityResult` method:
 
-\`\`\`kotlin
+```kotlin
 override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
    super.onActivityResult(requestCode, resultCode, data)
 
@@ -47,7 +47,7 @@ override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) 
        }
    }
 }
-\`\`\`
+```
 
 This code retrieves the captured image path from the `Intent` data and loads the image into an `ImageView` using `BitmapFactory.decodeFile`.
 
