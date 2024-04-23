@@ -1,9 +1,9 @@
 [![](https://jitpack.io/v/mathindas/CardFrameCapture.svg)](https://jitpack.io/#mathindas/CardFrameCapture)
 
 # CardFrameCapture Library
+![me](https://https://github.com/mathindas/CardFrameCapture/sample/app_sample.gif)
 
 CardFrameCapture is a Android library that simplifies the process of capturing images within a predefined frame or card. This library provides a user-friendly interface for capturing images, making it ideal for various use cases such as document scanning, ID card capturing, and more.
-
 ## Getting Started
 
 To get started with the CardFrameCapture library, follow these simple steps:
